@@ -1,0 +1,11 @@
+{
+  "name": "apo-02",
+  "version": "1.0.0",
+  "description": "Query Params e Rout Params",
+  "main": "index.js",
+  "author": "Robert Andrade",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

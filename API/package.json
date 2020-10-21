@@ -1,0 +1,11 @@
+{
+  "name": "API",
+  "version": "1.0.0",
+  "description": "MINHA API",
+  "main": "index.js",
+  "author": "ROBERT",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

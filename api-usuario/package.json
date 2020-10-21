@@ -1,0 +1,11 @@
+{
+  "name": "usuario",
+  "version": "1.0.0",
+  "description": "API Usuario",
+  "main": "index.js",
+  "author": "Robert",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

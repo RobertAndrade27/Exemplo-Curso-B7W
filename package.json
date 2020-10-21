@@ -1,5 +1,5 @@
 {
-  "name": "projetonode",
+  "name": "objetosearrays",
   "version": "1.0.0",
   "scripts": {
     "start": "nodemon ./server.js"
@@ -11,5 +11,9 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/RobertAndrade27/testgithub.git",
+  "author": "Robert Andrade <robert_andrade@icloud.com>",
+  "license": "MIT"
 }
